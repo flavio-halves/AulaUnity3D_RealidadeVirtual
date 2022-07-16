@@ -14,7 +14,8 @@ public class triggerTest : MonoBehaviour {
 		
         if(GvrController.TouchDown || Input.GetMouseButton(0))
         {
-            //Debug.Log("Hello World!! Gatilho Ativado!!");
+           // Debug.Log("Hello World!! Gatilho Ativado!!");
+
             
         }
         
